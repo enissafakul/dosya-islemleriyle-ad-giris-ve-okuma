@@ -1,0 +1,1 @@
+# dosya-islemleriyle-ad-giris-ve-okuma
